@@ -1,1 +1,3 @@
 this is a sample text file
+
+and now I've added additional text to test git-diff
